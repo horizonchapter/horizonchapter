@@ -24,6 +24,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**mods-claude-code**](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : jauge de contexte et relais (Jauge+), suites cliquables (Cap), barres de progression (Fil), réécriture de dictée (Plume). |
 | [**claude-second-brain**](https://github.com/horizonchapter/claude-second-brain) | Mon « second cerveau » : modèles `CLAUDE.md` / `STATE.md` et skills pour que Claude et Claude Code se passent le relais. |
 | [**claude-routines**](https://github.com/horizonchapter/claude-routines) | 4 routines Claude programmées (veille, mail famille, suivi du soir, revue hebdo) rangées dans Notion. |
+| [**context-transfer**](https://github.com/horizonchapter/context-transfer) | Skill de passation : reprendre dans un nouveau chat exactement où on s'était arrêté, sans rien perdre. |
 
 ## ✦ Ce que j'explore
 
