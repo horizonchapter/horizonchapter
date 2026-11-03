@@ -19,6 +19,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 
 | Projet | Ce que c'est |
 |---|---|
+| [**horizon-aios**](https://github.com/horizonchapter/horizon-aios) | Ma méthode de travail avec Claude : un second cerveau, une équipe d'agents, des outils maison. |
 | [**pdf-luxe**](https://github.com/horizonchapter/pdf-luxe) | Skill Claude : des PDF au rendu d'édition haut de gamme, générés en HTML/CSS. |
 | [**chef-employe**](https://github.com/horizonchapter/chef-employe) | Plugin Claude Code : déléguer le travail mécanique à des sous-agents moins chers, vérifier, mesurer. |
 | [**mods-claude-code**](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : jauge de contexte et relais (Jauge+), suites cliquables (Cap), barres de progression (Fil), réécriture de dictée (Plume). |
