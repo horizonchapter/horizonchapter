@@ -28,6 +28,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**context-transfer**](https://github.com/horizonchapter/context-transfer) | Skill de passation : reprendre dans un nouveau chat exactement où on s'était arrêté, sans rien perdre. |
 | [**memoire-aios**](https://github.com/horizonchapter/memoire-aios) | Crée ton AIOS autour de Claude et un second cerveau Obsidian où tout est noté et relié. |
 | [**grill-me**](https://github.com/horizonchapter/grill-me) | Se faire interroger, une question à la fois, pour solidifier un projet avant de le lancer. Inspiré de Matt Pocock. |
+| [**chiffrage-projet**](https://github.com/horizonchapter/chiffrage-projet) | Chiffrer un projet avant de le lancer : marge nette, point mort, 3 scénarios, décision STOP / PIVOT / CONTINUER. |
 
 ## ✦ Ce que j'explore
 
