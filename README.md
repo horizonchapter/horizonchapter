@@ -26,6 +26,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**claude-routines**](https://github.com/horizonchapter/claude-routines) | 4 routines Claude programmées (veille, mail famille, suivi du soir, revue hebdo) rangées dans Notion. |
 | [**context-transfer**](https://github.com/horizonchapter/context-transfer) | Skill de passation : reprendre dans un nouveau chat exactement où on s'était arrêté, sans rien perdre. |
 | [**memoire-aios**](https://github.com/horizonchapter/memoire-aios) | Crée ton AIOS autour de Claude et un second cerveau Obsidian où tout est noté et relié. |
+| [**grill-me**](https://github.com/horizonchapter/grill-me) | Se faire interroger, une question à la fois, pour solidifier un projet avant de le lancer. Inspiré de Matt Pocock. |
 
 ## ✦ Ce que j'explore
 
