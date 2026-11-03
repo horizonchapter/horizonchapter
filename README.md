@@ -29,6 +29,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**memoire-aios**](https://github.com/horizonchapter/memoire-aios) | Crée ton AIOS autour de Claude et un second cerveau Obsidian où tout est noté et relié. |
 | [**grill-me**](https://github.com/horizonchapter/grill-me) | Se faire interroger, une question à la fois, pour solidifier un projet avant de le lancer. Inspiré de Matt Pocock. |
 | [**chiffrage-projet**](https://github.com/horizonchapter/chiffrage-projet) | Chiffrer un projet avant de le lancer : marge nette, point mort, 3 scénarios, décision STOP / PIVOT / CONTINUER. |
+| [**checklist-lancement-web**](https://github.com/horizonchapter/checklist-lancement-web) | Tout vérifier avant de publier un site, une boutique ou un SaaS : sécurité, RGPD, SEO, tests réels. |
 
 ## ✦ Ce que j'explore
 
