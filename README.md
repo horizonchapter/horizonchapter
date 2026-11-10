@@ -31,6 +31,9 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**chiffrage-projet**](https://github.com/horizonchapter/chiffrage-projet) | Chiffrer un projet avant de le lancer : marge nette, point mort, 3 scénarios, décision STOP / PIVOT / CONTINUER. |
 | [**checklist-lancement-web**](https://github.com/horizonchapter/checklist-lancement-web) | Tout vérifier avant de publier un site, une boutique ou un SaaS : sécurité, RGPD, SEO, tests réels. |
 | [**roblox-skills**](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox avec Claude : chef de chantier, direction artistique, game feel, Roblox Studio. |
+| [**oeil-humain**](https://github.com/horizonchapter/oeil-humain) | Contrôle esthétique d'une vidéo courte avant publication, du point de vue d'un vrai spectateur. |
+| [**filtre-ia**](https://github.com/horizonchapter/filtre-ia) | Retirer l'aspect « fait par une IA » d'une interface pour qu'elle paraisse conçue par un studio. |
+| [**claude-subagents**](https://github.com/horizonchapter/claude-subagents) | 5 sous-agents Claude Code : chercheur, relecteur, chiffreur, trieur, expert Roblox. |
 
 ## ✦ Ce que j'explore
 
