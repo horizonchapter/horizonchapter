@@ -20,7 +20,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 ### Skills Claude
 | Projet | Ce que c'est |
 |---|---|
-| [**clearmind**](https://github.com/horizonchapter/clearmind) | Skill de fond : lire toute la demande, signaler ce qui manque, ne rien inventer, répondre en moins de mots. |
+| [**clearmind**](https://github.com/horizonchapter/clearmind) | Skill de fond : lire toute la demande, signaler ce qui manque, ne rien inventer, répondre en moins de mots, avec la réponse d'abord et des blocs courts. |
 | [**design-horizon**](https://github.com/horizonchapter/design-horizon) | Un seul point d'entrée pour un design d'interface beau, qui ne fait pas IA : chaîne en 8 étapes avec preuves. |
 | [**publication-sure**](https://github.com/horizonchapter/publication-sure) | Tester un site ou une app avant la mise en ligne : sécurité, légal FR/UE, Lighthouse, verdict PASSE ou ÉCHOUE. |
 | [**memoire-relais**](https://github.com/horizonchapter/memoire-relais) | Lire et noter la mémoire de son second cerveau, et passer le relais d'une session ou d'un chat sans rien perdre. |
@@ -31,16 +31,16 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**skill-booster**](https://github.com/horizonchapter/skill-booster) | Fusionner et améliorer des skills au lieu d'en multiplier, preuve avant/après. |
 | [**filtre-ia**](https://github.com/horizonchapter/filtre-ia) | Retirer l'aspect « fait par une IA » d'une interface. |
 | [**oeil-humain**](https://github.com/horizonchapter/oeil-humain) | Contrôle esthétique d'une vidéo courte avant publication. |
-| [**roblox-skills**](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox avec Claude. |
+| [**roblox-skills**](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox avec Claude (archivé). |
 
 ### Plugins, mods, agents, modèles
 | Projet | Ce que c'est |
 |---|---|
 | [**chef-employe**](https://github.com/horizonchapter/chef-employe) | Plugin Claude Code : déléguer le travail mécanique à des sous-agents moins chers, vérifier, mesurer. |
-| [**mods-claude-code**](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : Jauge+ (jauge et relais), Cap (suites cliquables), Fil (progression), Plume (réécriture de dictée). |
+| [**mods-claude-code**](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : Jauge+ 0.13.5 (jauge et relais), Cap (suites cliquables), Fil (progression), Plume (réécriture de dictée). |
 | [**claude-subagents**](https://github.com/horizonchapter/claude-subagents) | 5 sous-agents Claude Code : chercheur, relecteur, chiffreur, trieur, expert Roblox. |
 | [**claude-second-brain**](https://github.com/horizonchapter/claude-second-brain) | Modèles `CLAUDE.md` / `STATE.md` / `DECISIONS.md` pour que Claude et Claude Code se passent le relais. |
-| [**claude-routines**](https://github.com/horizonchapter/claude-routines) | 4 routines Claude programmées rangées dans Notion. |
+| [**claude-routines**](https://github.com/horizonchapter/claude-routines) | 4 routines Claude programmées rangées dans Notion (archivé). |
 | [**horizon-aios**](https://github.com/horizonchapter/horizon-aios) | Ma méthode de travail avec Claude : un second cerveau, une équipe d'agents, des outils maison. |
 
 ### Archivés (remplacés)
