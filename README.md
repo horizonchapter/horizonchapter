@@ -26,7 +26,7 @@ I build digital projects with AI and share the tools and workflows that work: Cl
 | [**memoire-relais**](https://github.com/horizonchapter/memoire-relais) | Lire et noter la mémoire de son second cerveau, et passer le relais d'une session ou d'un chat sans rien perdre. |
 | [**memoire-aios**](https://github.com/horizonchapter/memoire-aios) | Crée ton AIOS autour de Claude, pas à pas : un second cerveau Obsidian où tout est noté et relié. |
 | [**pdf-sobre**](https://github.com/horizonchapter/pdf-sobre) | Des PDF A4 sobres et précis depuis du Markdown, sans page à moitié vide. |
-| [**pdf-luxe**](https://github.com/horizonchapter/pdf-luxe) | Des PDF au rendu d'édition haut de gamme, générés en HTML/CSS. |
+| [**pdf-luxe**](https://github.com/horizonchapter/pdf-luxe) | Des PDF au rendu d'édition haut de gamme (ivoire et or), générés en HTML/CSS. N'évolue plus : voir pdf-sobre. |
 | [**decision-business**](https://github.com/horizonchapter/decision-business) | Démarrer un projet et décider avec des chiffres : STOP, PIVOT ou CONTINUER. |
 | [**skill-booster**](https://github.com/horizonchapter/skill-booster) | Fusionner et améliorer des skills au lieu d'en multiplier, preuve avant/après. |
 | [**filtre-ia**](https://github.com/horizonchapter/filtre-ia) | Retirer l'aspect « fait par une IA » d'une interface. |
